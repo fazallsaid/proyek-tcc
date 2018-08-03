@@ -14,3 +14,6 @@ Dokumentasi Hasil Proyek TCC
 10. Jika semua sudah dilakukan, kita klik link project yang telah disediakan oleh Openshift.
 11. Maka tampil halaman proyek yang sudah kita unggah di Github.
 12. Openshift ini hanya menggunakan 1 container, selebihnya kita harus membayar.
+
+Link Dokumentasi
+https://youtu.be/nsNeb9jfzbU
